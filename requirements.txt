@@ -1,0 +1,5 @@
+streamlit>=1.35
+kociemba>=1.2.1
+reportlab>=4.0
+numpy>=1.26
+Pillow>=10.0
